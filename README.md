@@ -35,7 +35,7 @@ A fully functional full stack project that replicates the appearance and feature
 ![](Images/Google_Login_1.png)
 
 ##### Create Reddit Communities
-![](Images/Create_Communities_1.png)
+![](Images/Create_Communities_1B.png)
 
 ##### Visit Community Subreddits
 ![](Images/Community_Home_Page_1.png)
