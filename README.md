@@ -28,14 +28,20 @@ A fully functional full stack project that replicates the appearance and feature
 
 ### Screenshots
 
-##### Home Page
-![](DemoImages/Home_1.png)
-
-##### Login Page
+##### Login Modal
 ![](DemoImages/Login_1.png)
 
-##### View Shopping Basket
-![](DemoImages/Basket_1.png)
+##### Signup with Google
+![](DemoImages/Google_Login_1.png)
 
-##### Checkout Page
-![](DemoImages/Checkout_1.png)
+##### Create Reddit Communities
+![](DemoImages/Create_Communities_1.png)
+
+##### Visit Community Subreddits
+![](DemoImages/Community_Home_Page_1.png)
+
+##### Create Posts in Communities
+![](DemoImages/Create_Post_1.png)
+
+##### View, Upvote and Comment on Posts
+![](DemoImages/View_Posts_1.png)
