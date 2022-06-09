@@ -29,19 +29,19 @@ A fully functional full stack project that replicates the appearance and feature
 ### Screenshots
 
 ##### Login Modal
-![](DemoImages/Login_1.png)
+![](Images/Login_1.png)
 
 ##### Signup with Google
-![](DemoImages/Google_Login_1.png)
+![](Images/Google_Login_1.png)
 
 ##### Create Reddit Communities
-![](DemoImages/Create_Communities_1.png)
+![](Images/Create_Communities_1.png)
 
 ##### Visit Community Subreddits
-![](DemoImages/Community_Home_Page_1.png)
+![](Images/Community_Home_Page_1.png)
 
 ##### Create Posts in Communities
-![](DemoImages/Create_Post_1.png)
+![](Images/Create_Post_1.png)
 
 ##### View, Upvote and Comment on Posts
-![](DemoImages/View_Posts_1.png)
+![](Images/View_Posts_1.png)
